@@ -88,7 +88,7 @@
     "@solidity-parser/parser": "^0.14.5",
     "emoji-regex": "^10.2.1",
     "escape-string-regexp": "^4.0.0",
-    "semver": "^7.3.8",
+    "semver": "^7.4.0",
     "solidity-comments-extractor": "^0.0.7",
     "string-width": "^4.2.3"
   },
